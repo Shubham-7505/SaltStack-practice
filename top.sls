@@ -1,4 +1,4 @@
 main:
   '*':
-    - state.create_user
+    - create_user
 
